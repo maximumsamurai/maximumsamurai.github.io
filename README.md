@@ -1,2 +1,2 @@
 # maximumsamurai.github.io
-AND SOMETHING ELSE
+# AND SOMETHING ELSE
