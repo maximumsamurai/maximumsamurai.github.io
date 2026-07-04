@@ -9,3 +9,5 @@ Samsung Health https://health.apps.samsung.com/terms
 
 ## Contact
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at samuraimaxon@gmail.com.
+
+### Maximum Samurai ©
